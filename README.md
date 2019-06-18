@@ -74,7 +74,7 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 ### APIs
 
-- **Interna**
+- **[Node - Instagram](https://github.com/osvaldokalvaitir/node-instagram)**
 
   - **Rotas**
 
