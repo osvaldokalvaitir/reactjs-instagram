@@ -44,7 +44,7 @@ Nesta primeira tela, é onde estão todos os posts vindos da API, podendo dar li
 ### Novo
 
 ![New](/assets/new.png)
-Nesta tela, é possível adicionar um novo post.
+Nesta tela, é possível adicionar um novo post, selecionando uma imagem.
 
 ## Desenvolvimento
 
