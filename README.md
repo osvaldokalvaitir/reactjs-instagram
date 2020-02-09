@@ -38,12 +38,12 @@ Aplicação Instagram usando Create React App, Axios, React Router e Socket.io c
 
 ### Feed
 
-![Feed](/assets/feed.png)
+![Feed](/.github/assets/feed.png)
 Nesta primeira tela, é onde estão todos os posts vindos da API, podendo dar like e adicionar novos posts.
 
 ### Novo
 
-![New](/assets/new.png)
+![New](/.github/assets/new.png)
 Nesta tela, é possível adicionar um novo post, selecionando uma imagem.
 
 ## Desenvolvimento
