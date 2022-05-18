@@ -1,85 +1,63 @@
-# ReactJS - Instagram
+<h1 align="center">
+    <img src="/.github/assets/logo.svg"
+    width="400px"
+    alt="Logo" />
+</h1>
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/reactjs-instagram/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/reactjs-instagram.svg)
-![](https://img.shields.io/github/last-commit/osvaldokalvaitir/reactjs-instagram.svg?color=red)
-![](https://img.shields.io/github/languages/top/osvaldokalvaitir/reactjs-instagram.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/osvaldokalvaitir/reactjs-instagram.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/reactjs-instagram.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/reactjs-instagram.svg?color=blueviolet)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+<h3 align="center">
+  ReactJS - Instagram
+</h3>
 
-Aplicação Instagram usando Create React App, Axios, React Router e Socket.io consumindo os recursos da API do [Node.js - Instagram](https://github.com/osvaldokalvaitir/nodejs-instagram).
+<p align="center">
+  :camera: Instagram Application using Create React App, Axios, React Router, Socket.io and consuming the features of the Node.js - Instagram API
+</p>
 
-## Índice
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/osvaldokalvaitir/reactjs-instagram.svg?color=00A83A">
 
-- [Capturas de Tela](#capturas-de-tela)
+  <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/reactjs-instagram.svg?color=00A83A">
 
-  - [Feed](#feed)
+  <a href="https://kalvaitir.com/">
+    <img alt="Made by Kalvaitir" src="https://img.shields.io/badge/made%20by-Kalvaitir-00A83A">
+  </a>
 
-  - [Novo](#novo)
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-00A83A">
+</p>
 
-- [Desenvolvimento](#desenvolvimento)
+<p align="center">
+  <a href="#computer-demo">Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#wrench-install-and-run">Install and run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#memo-license">License</a>
+</p>
 
-  - [Configuração do Ambiente](#configuração-do-ambiente)
+## :computer: Demo
 
-  - [Instalação do Projeto](#instalação-do-projeto)
+![Demo](/.github/assets/demo.gif)
 
-  - [Execução do Projeto](#execução-do-projeto)
+## :wrench: Install and run
 
-- [Utilizados no Projeto](#utilizados-no-projeto)
+_ps: Before running the app, start the [Node.js - Instagram](https://github.com/osvaldokalvaitir/nodejs-instagram) backend._
 
-  - [Bibliotecas](#bibliotecas)
+Open terminal:
 
-  - [APIs](#apis)
+```sh
+# Clone this repo
+git clone https://github.com/osvaldokalvaitir/reactjs-instagram
 
-## Capturas de Tela
+# Entry in folder
+cd reactjs-instagram
 
-### Feed
+# Install deps with npm or yarn
+npm install | yarn
 
-![Feed](/.github/assets/feed.png)
-Nesta primeira tela, é onde estão todos os posts vindos da API, podendo dar like e adicionar novos posts.
+# Launch the app with npm or yarn
+npm start | yarn start
+```
 
-### Novo
+## :memo: License
 
-![New](/.github/assets/new.png)
-Nesta tela, é possível adicionar um novo post, selecionando uma imagem.
+This project is under the MIT license. See [LICENSE](/LICENSE) for more information.
 
-## Desenvolvimento
+---
 
-### Configuração do Ambiente
-
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configuração de Ambiente`.
-
-### Instalação do Projeto
-
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Instalação de Projeto`.
-
-### Execução do Projeto
-
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md) e siga `Execução de Projeto para Desenvolvimento` ou `Construção e Execução de Projeto para Produção`.
-
-## Utilizados no Projeto
-
-### Bibliotecas
-
-- [Axios](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/axios.md)
-
-- [Create React App](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/create-react-app.md)
-
-- [react-router-dom](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/react-router-dom.md)
-
-- [socket.io-client](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/socketio-client.md)
-
-### APIs
-
-- **[Node.js - Instagram](https://github.com/osvaldokalvaitir/nodejs-instagram)**
-
-  - **Rotas**
-
-    - Posts
-
-      - Adiciona novos posts
-      - Busca todos os posts
-      - Like nos posts
+<p align="center">
+Developed with 💚 by <a href="https://www.linkedin.com/in/osvaldokalvaitir">Osvaldo Kalvaitir Filho</a>
+</p>
